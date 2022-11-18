@@ -7,11 +7,11 @@
 2 - O script tem três etapas:
 - I - Atualização do sistema do servidor;
 - II - Instalação do Apache;
-- III - Downloads do Unzip e da aplicação web no repositório:https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip. 
+- III - Downloads do Unzip e da aplicação web no repositório: https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip. 
 
 3 - O arquivo da aplicação web será salvo no diretório /tmp e descompactada no mesmo local com o nome _linux-site-dio-main_;
 
-4 - O arquivo descompactado será cópiado para o diretório padrão do apache (/var/www/html);
+4 - O arquivo descompactado será copiado para o diretório padrão do apache (/var/www/html);
 
 5 - Requisitos do sistema:
 - Distribuição Debian ou derivados;
