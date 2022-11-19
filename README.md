@@ -15,5 +15,5 @@
 
 5 - Requisitos do sistema:
 - Distribuição Debian ou derivados;
-- Ter o aplicativo **wget** instalado;
-- Alterar a permissão do script com o comando ***chmod +x web_server***.
+- Ter o **wget** instalado;
+- Alterar a permissão do script com o comando ***chmod +x web_server.sh***.
